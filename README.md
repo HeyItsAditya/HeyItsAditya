@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HeyItsAditya
 - 👀 I’m interested in Technology
-- 🌱 I’m currently figuring out what to learn...
-- 💞️ I’m looking to collaborate on idk
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me -> DM's http://heyitsaditya.tk
 
 <!---
